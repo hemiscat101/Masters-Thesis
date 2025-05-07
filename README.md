@@ -1,1 +1,1 @@
-Python programs i used for my masters at IISER. Character based classifier v6 is the final iteration.
+Python programs I used for my master's at IISER. Character-based classifier v6 is the final iteration.
